@@ -1,11 +1,16 @@
 ## Ola meu nome é Leonardo Bavuti Dev FullStack!!
-📱
-💻
-📊
-☁
-🌐
-📚
-🎨
+📱 DEV APPS ANDROID/IOS
+
+💻 DEV FULL STACK
+
+📊 Systems Analyst
+
+🌐 Web DEV
+
+📚 Studying System Security (Ethical Hacking)
+
+🎨 Photoshop And Designer
+
 <div align="center">
   <a href="https://github.com/LeoBavuti">
     
